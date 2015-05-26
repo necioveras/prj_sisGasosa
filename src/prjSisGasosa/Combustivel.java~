@@ -48,7 +48,7 @@ public class Combustivel {
 	}
 	
 	public String toString(){
-		return nome + ", Preço de venda  = " + precoVenda;
+		return nome + ", Preço de venda: " + precoVenda;
 	}
 	
 	public void reajustaPrecoVenda(double percentual){
